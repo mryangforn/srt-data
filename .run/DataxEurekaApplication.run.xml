@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DataxEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="datax-eureka" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="cn.datax.eureka.DataxEurekaApplication" />
+    <option name="VM_PARAMETERS" value="-Xms128m -Xmx256m" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
